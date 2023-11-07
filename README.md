@@ -1,6 +1,6 @@
-# **Naver Boostcamp AI Tech level 2 NLP 1조**
+# **[NLP] 문장 내 게체간 관계 추출 데이터 제작**
 
-## **[NLP] 문장 내 게체간 관계 추출 데이터 제작**
+## 개요
 
 한국어 및 다른 언어에서의 자연어처리 데이터셋의 유형 및 포맷이 어떤지,
 
@@ -70,8 +70,11 @@
 |auprc|85.08|
 
 
+<br><br><br>
 
+## IAA 테스트를 위한 streamlit 도구 제작
 
+<img width="500" alt="model" src="https://github.com/wooy0ng/naver-boostcamp-nlp-DataAnnotation/assets/37149278/d4a74161-5aa3-4a99-9e77-ec0505b67f37">
 
 <br><br><br>
 
